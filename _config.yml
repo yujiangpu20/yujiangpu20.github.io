@@ -59,3 +59,4 @@ exclude:
   - README_de.md
   - LICENSE
   - minimal-light.gemspec
+  - vendor/
