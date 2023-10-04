@@ -1,18 +1,18 @@
-url: "hanchaozhang.xyz "
+url: "yujiangpu20.github.io"
 # baseurl: /Hanchao-Zhang.github.io
 # Basic Information 
-title: Hanchao Zhang
+title: Yujiang Pu
 # subtitle:
-position: Ph.D. Candidate
+position: Ph.D. Student
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
-subposition_link: https://nyu-medicine-cssa.github.io
-affiliation: New York University
-subaffiliation: Grossman School of Medicine  
-affiliation_link: https://www.nyu.edu
-subaffiliation_link: https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/
-email: Hanchao.Zhang@nyu.edu
-address: 180 Madision Ave, Suite 5-31C, New York, NY 10016
-address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
+# subposition_link: https://nyu-medicine-cssa.github.io
+affiliation: Michigan State University
+subaffiliation: Department of Computer Science and Engineering  
+affiliation_link: https://msu.edu/
+subaffiliation_link: https://www.cse.msu.edu/
+email: puyujian@msu.edu
+address: 3345 Engineering Building, 428 S. Shaw Lane, East Lansing, MI 48824
+address_link: https://goo.gl/maps/7j2eFxoe6SFCXCws6
 
 
 
@@ -24,22 +24,22 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
-cv_link: assets/files/HanchaoZhangCV.pdf
-github_link: https://github.com/Hanchao-Zhang
-linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
-twitter: https://twitter.com/tedddddy_zhang
+google_scholar: https://scholar.google.com/citations?user=s4FqkFAAAAAJ&hl=en&oi=ao
+cv_link: assets/files/YujiangPu_CV.pdf
+github_link: https://github.com/yujiangpu20
+linkedin: https://www.linkedin.com/in/yujiang-pu-819171289/
+twitter: https://twitter.com/pu_yujiang666
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.jpg
+avatar: ./assets/img/yujiang.jpeg
 # logo: ./assets/img/logo.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/spartan.png
+favicon_dark: ./assets/img/spartan-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false
+enable_footnote: true
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics

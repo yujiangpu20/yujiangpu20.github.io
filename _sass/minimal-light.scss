@@ -24,7 +24,7 @@ a.no-color {
   height: 2.4rem;
   width: 2.4rem;
   background-color: transparent;
-  color: #57068c !important;
+  color: #0D743C !important;
   border-radius: 100%;
   text-align: center;
   font-size: 1.15rem;
@@ -198,7 +198,7 @@ email {
 // }
 
 autocolor {
-  color: #57068c;
+  color: #0D743C;
 }
 
 lightonly {
@@ -222,11 +222,11 @@ papertitle {
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #404040;
-    color: #eee6f3;
+    color: #cee6e1;
   }
 
   autocolor {
-    color: #ab82c5;
+    color: #6db5a4;
   }
 
   lightonly {
@@ -394,17 +394,17 @@ h1 {
 }
 
 a {
-  color: #702b9d;
+  color: #0D743C;
   text-decoration: none;
 }
 
 a:hover {
-  color: #330662;
+  color: #19453b;
 }
 
 @media (prefers-color-scheme: dark) {
   a {
-    color: #ab82c5;
+    color: #6db5a4;
   }
 }
 
