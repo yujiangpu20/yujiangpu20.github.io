@@ -44,3 +44,5 @@ I am engaged in research in **Computer Vision (CV)** and **Machine Learning (ML)
 
 
 {% include_relative _includes/services.md %}
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=-nuY1iShMqFO02w_C6szuPe_vQpsQNc8552X3r2BqYQ"></script>
