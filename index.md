@@ -50,4 +50,6 @@ I am engaged in research in **Computer Vision (CV)** and **Machine Learning (ML)
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=-nuY1iShMqFO02w_C6szuPe_vQpsQNc8552X3r2BqYQ"></script>
 </div>
  -->
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=-nuY1iShMqFO02w_C6szuPe_vQpsQNc8552X3r2BqYQ&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+<div id="clustrmaps-globe" style="width: 150px; height: auto;">
+    <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=-nuY1iShMqFO02w_C6szuPe_vQpsQNc8552X3r2BqYQ"></script>
+</div>
