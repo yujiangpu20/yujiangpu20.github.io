@@ -11,6 +11,7 @@
 <h4 style="margin:0 10px 0;"><strong>Conference Reviewer</strong></h4>
 
 <ul style="margin:0 0 20px;">
+  <li>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): <a href="https://cvpr.thecvf.com/" target="_blank"> 2024 </a></li>
   <li>Association for the Advancement of Artificial Intelligence (AAAI): <a href="https://aaai.org/aaai-conference/" target="_blank"> 2024 </a></li>
   <li>Conference and Workshop on Neural Information Processing Systems (NeurIPS): <a href="https://neurips.cc/Conferences/2023" target="_blank"> 2023 </a></li>
   <li>International Conference on Pattern Recognition (ICPR): <a href="https://www.micc.unifi.it/icpr2020/" target="_blank"> 2020 </a></li>
