@@ -33,7 +33,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <object data="assets/img/CFSR.pdf" type="application/pdf" width="100%" height="200">
+    <img src="assets/img/CFSR.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge" style="color:#045429">ECCV 2024</abbr>
   </div>
 
