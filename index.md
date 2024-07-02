@@ -24,7 +24,7 @@ I am engaged in research in **Computer Vision (CV)** and **Machine Learning (ML)
 
 ## News
 
-- **[Jul. 2024]** 🎉 One paper is accepted by ECCV 2024!
+- **[Jul. 2024]** 🎉 One paper is accepted by **ECCV** 2024!
 - **[Aug. 2023]** Begin my new journey at **MSU**, East Lansing, MI.
 <!-- - **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**. -->
 
