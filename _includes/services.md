@@ -22,8 +22,6 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://dl.acm.org/journal/csur" target="_blank"> ACM Computing Surveys </a></li>
-</ul>
-<ul style="margin:0 0 20px;">
   <li><a href="https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation" target="_blank"> Journal of Visual Communication and Image Representation </a></li>
 </ul>
 
