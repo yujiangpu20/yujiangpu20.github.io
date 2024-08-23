@@ -27,7 +27,7 @@ I am engaged in research in **Computer Vision (CV)** and **Machine Learning (ML)
 - **2024.07**  🎉 One paper is accepted by **ECCV** 2024!
 - **2023.08**  Begin my new journey at **MSU**, East Lansing, MI. -->
 
-<div style="display: flex; margin-bottom: 10px;">
+<!-- <div style="display: flex; margin-bottom: 10px;">
   <div style="min-width: 80px;"><strong>08/2024</strong></div>
   <div style="flex-grow: 1;">🎉 One paper is accepted by <strong>IEEE-TIP</strong> (IF=10.8)!</div>
 </div>
@@ -39,7 +39,20 @@ I am engaged in research in **Computer Vision (CV)** and **Machine Learning (ML)
   <div style="min-width: 80px;"><strong>08/2023</strong></div>
   <div style="flex-grow: 1;">Begin my new journey at <strong>MSU</strong>, East Lansing, MI.</div>
 </div>
+ -->
 
+<div style="display: flex; margin-bottom: 10px; margin-left: 20px;">
+  <div style="min-width: 80px; padding-left: 20px;"><strong>[Aug.2024]</strong></div>
+  <div style="flex-grow: 1;">🎉 One paper is accepted by <strong>IEEE-TIP</strong> (IF=10.8)!</div>
+</div>
+<div style="display: flex; margin-bottom: 10px; margin-left: 20px;">
+  <div style="min-width: 80px; padding-left: 20px;"><strong>[Jul.2024]</strong></div>
+  <div style="flex-grow: 1;">🎉 One paper is accepted by <strong>ECCV</strong> 2024!</div>
+</div>
+<div style="display: flex; margin-bottom: 10px; margin-left: 20px;">
+  <div style="min-width: 80px; padding-left: 20px;"><strong>[Aug.2023]</strong></div>
+  <div style="flex-grow: 1;">Begin my new journey at <strong>MSU</strong>, East Lansing, MI.</div>
+</div>
 
 <!-- {% include_relative _includes/publications.md %} -->
 
