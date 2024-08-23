@@ -28,7 +28,8 @@
 </div>
 </li> -->
 
-<h3 style="margin:0 10px 0;"><strong>Conference Papers</strong></h3>
+
+<h3 style="margin:0 10px 20px 30px;"><strong>Conference Papers</strong></h3>
 
 <li>
 <div class="pub-row">
@@ -100,7 +101,7 @@
 </li>    
 
 
-<h3 style="margin:0 10px 0;"><strong>Journal Articles</strong></h3>
+<h3 style="margin:0 10px 20px 30px;"><strong>Journal Articles</strong></h3>
 
 
 <li>
