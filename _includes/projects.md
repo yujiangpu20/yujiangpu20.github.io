@@ -28,6 +28,7 @@
 </div>
 </li> -->
 
+<h4 style="margin:0 10px 0;"><strong>Conference Papers</strong></h4>
 
 <li>
 <div class="pub-row">
@@ -46,53 +47,6 @@
       <a href="https://github.com/zxccade/SHINE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="assets/files/SHINE.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
       <!-- <strong><i style="color:#045429">Coming Soon!</i></strong> -->
-    </div>
-  </div>
-</div>
-</li>
-
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/PEL.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge" style="color:#045429">arXiv</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2306.14451">Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection</a></div>
-    <div class="author"><strong>Yujiang Pu</strong>, Xiaoyu Wu, Shengjin Wang</div>
-    <div class="periodical"><em>Preprint <strong>(arXiv)</strong>, Jun. 2023.</em></div>
-    <div class="links">
-    <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
-      <a href="https://arxiv.org/pdf/2306.14451.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yujiangpu20/PEL4VAD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
-      <a href="assets/files/PEL.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <strong><i style="color:#045429">arXiv.org</i></strong>
-    </div>
-  </div>
-</div>
-</li>
-
-
-<li>
-<div class="pub-row">
-
-<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/neuro.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge" style="color:#045429">Neurocomputing</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231222011833">Semantic Multimodal Violence Detection based on Local-to-Global Embedding</a></div>
-    <div class="author"><strong>Yujiang Pu</strong>, Xiaoyu Wu, Shengjin Wang, Yuming Huang, Zihao Liu, Chaonan Gu</div>
-    <div class="periodical"><em>Neurocomputing <strong>(NC)</strong>, Dec. 2022.</em></div>
-    <div class="links">
-      <a href="assets/files/neurocom.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="assets/files/neuro.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <!-- <strong><i style="color:#19453B">arXiv.org</i></strong> -->
     </div>
   </div>
 </div>
@@ -144,6 +98,60 @@
   </div>
 </div>
 </li>    
+
+
+<h4 style="margin:0 10px 0;"><strong>Journal Articles</strong></h4>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/PEL.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge" style="color:#045429">IEEE-TIP</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2306.14451">Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection</a></div>
+    <div class="author"><strong>Yujiang Pu</strong>, Xiaoyu Wu, Lulu Yang, Shengjin Wang</div>
+    <div class="periodical"><em>IEEE Transactions on Image Processing<strong>(TIP)</strong>, Aug. 2024.</em></div>
+    <div class="links">
+    <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
+      <a href="https://arxiv.org/pdf/2306.14451.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/yujiangpu20/PEL4VAD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
+      <a href="assets/files/PEL.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+
+<li>
+<div class="pub-row">
+
+<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/neuro.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge" style="color:#045429">Neurocomputing</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231222011833">Semantic Multimodal Violence Detection based on Local-to-Global Embedding</a></div>
+    <div class="author"><strong>Yujiang Pu</strong>, Xiaoyu Wu, Shengjin Wang, Yuming Huang, Zihao Liu, Chaonan Gu</div>
+    <div class="periodical"><em>Neurocomputing <strong>(NC)</strong>, Dec. 2022.</em></div>
+    <div class="links">
+      <a href="assets/files/neurocom.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/neuro.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <!-- <strong><i style="color:#19453B">arXiv.org</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+
 
 <br>
 
