@@ -29,6 +29,51 @@
 </li> -->
 
 
+<h3 style="margin:0 10px 10px 20px;"><strong>Preprints</strong></h3>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/showme.pdf" class="teaser img-fluid z-depth-1">
+    <abbr class="badge" style="color:#045429">ArXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://yujiangpu20.github.io/showme/">Show Me: Generating Instructional Videos with Diffusion Models</a></div>
+    <div class="author"><strong>Yujiang Pu*</strong>, Zhanbo Huang, Vishnu Boddeti, Yu Kong</div>
+    <div class="periodical"><em>In Submission, 2025.</em></div>
+    <div class="links">
+      <a href="https://yujiangpu20.github.io/showme/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
+      <!-- <a href="https://github.com/zxccade/SHINE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="assets/files/SHINE.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
+      <!-- <strong><i style="color:#045429">Coming Soon!</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/AEM.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge" style="color:#045429">ArXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.yujiangpu.com/">Procedural Mistake Detection via Action Effect Modeling</a></div>
+    <div class="author">Wenliang Guo, <strong>Yujiang Pu</strong>, Yu Kong</div>
+    <div class="periodical"><em>In Submission, 2025.</em></div>
+    <div class="links">
+      <a href="https://www.yujiangpu.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
+      <!-- <a href="https://github.com/zxccade/SHINE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="assets/files/SHINE.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
+      <!-- <strong><i style="color:#045429">Coming Soon!</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
 <h3 style="margin:0 10px 10px 20px;"><strong>Conference Papers</strong></h3>
 
 <li>

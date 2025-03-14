@@ -11,16 +11,20 @@
 <h4 style="margin:0 10px 0;"><strong>Conference Reviewer</strong></h4>
 
 <ul style="margin:0 0 20px;">
-  <li>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): <a href="https://cvpr.thecvf.com/" target="_blank"> 2024 </a></li>
-  <li>Association for the Advancement of Artificial Intelligence (AAAI): <a href="https://aaai.org/aaai-conference/" target="_blank"> 2024 </a></li>
-  <li>Conference and Workshop on Neural Information Processing Systems (NeurIPS): <a href="https://neurips.cc/Conferences/2023" target="_blank"> 2023 </a></li>
-  <li>International Conference on Pattern Recognition (ICPR): <a href="https://www.micc.unifi.it/icpr2020/" target="_blank"> 2020 </a></li>
+  <li>International Conference on Computer Vision (ICCV): 2025 </a></li>
+  <li>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2024, 2025 </a></li>
+  <li>European Conference on Computer Vision (ECCV): 2024 </a></li>
+  <li>Association for the Advancement of Artificial Intelligence (AAAI): 2024 </a></li>
+  <li>Conference and Workshop on Neural Information Processing Systems (NeurIPS): 2023 </a></li>
+  <li>International Conference on Pattern Recognition (ICPR): 2020 </a></li>
 </ul>
 
 
 <h4 style="margin:0 10px 0;"><strong>Journal Reviewer</strong></h4>
 
 <ul style="margin:0 0 20px;">
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83" target="_blank"> IEEE Transactions on Image Processing </a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046" target="_blank"> IEEE Transactions on Multimedia </a></li>
   <li><a href="https://dl.acm.org/journal/csur" target="_blank"> ACM Computing Surveys </a></li>
   <li><a href="https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation" target="_blank"> Journal of Visual Communication and Image Representation </a></li>
 </ul>
