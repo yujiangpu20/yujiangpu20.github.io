@@ -95,7 +95,7 @@
 </li> -->
 
 
-<h3 style="margin:0 10px 10px 20px;"><strong>Conference Papers</strong></h3>
+<h3 style="margin:10px 10px 10px 20px;"><strong>Conference Papers</strong></h3>
 
 <li>
 <div class="pub-row">
