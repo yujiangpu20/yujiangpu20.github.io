@@ -11,12 +11,12 @@
 <h4 style="margin:0 10px 0;"><strong>Conference Reviewer</strong></h4>
 
 <ul style="margin:0 0 20px;">
-  <li>International Conference on Computer Vision (ICCV): 2025 </a></li>
-  <li>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2024, 2025 </a></li>
-  <li>European Conference on Computer Vision (ECCV): 2024 </a></li>
-  <li>Association for the Advancement of Artificial Intelligence (AAAI): 2024 </a></li>
-  <li>Conference and Workshop on Neural Information Processing Systems (NeurIPS): 2023 </a></li>
-  <li>International Conference on Pattern Recognition (ICPR): 2020 </a></li>
+  <li>International Conference on Computer Vision (ICCV): 2025 </li>
+  <li>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2024, 2025</li>
+  <li>European Conference on Computer Vision (ECCV): 2024</li>
+  <li>Association for the Advancement of Artificial Intelligence (AAAI): 2024</li>
+  <li>Conference and Workshop on Neural Information Processing Systems (NeurIPS): 2023</li>
+  <li>International Conference on Pattern Recognition (ICPR): 2020</li>
 </ul>
 
 
