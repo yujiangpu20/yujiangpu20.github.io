@@ -41,7 +41,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://yujiangpu20.github.io/noiseasier/">NoisEasier: Direct Noise Optimization for Text-to-Video Generation</a></div>
+    <div class="title"><a href="https://yujiangpu20.github.io/noiseasier/">Latent Noise Optimization for Text-to-Video Generation</a></div>
     <div class="author"><strong>Yujiang Pu</strong>, and Yu Kong</div>
     <div class="periodical"><em>Under Review, 2025.</em></div>
     <div class="links">
