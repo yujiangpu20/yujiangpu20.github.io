@@ -31,6 +31,10 @@ I am engaged in research in **Computer Vision (CV)** and **Machine Learning (ML)
 
 
 <div style="display: flex; margin-bottom: 10px; margin-left: 1px;">
+  <div style="min-width: 80px; padding-left: 20px;"><strong>[Nov. 2025]</strong></div>
+  <div style="flex-grow: 1;">🎉 One paper is accepted by <strong>WACV</strong> 2026! See U in Tucson🌵</div>
+</div>
+<div style="display: flex; margin-bottom: 10px; margin-left: 1px;">
   <div style="min-width: 80px; padding-left: 20px;"><strong>[Apr. 2025]</strong></div>
   <div style="flex-grow: 1;">Successfully passed the PhD qualifying exam!</div>
 </div>
