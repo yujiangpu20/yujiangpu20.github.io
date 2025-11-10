@@ -103,13 +103,13 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/showme.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge" style="color:#045429">ArXiv</abbr>
+    <abbr class="badge" style="color:#045429">WACV 2026</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://yujiangpu20.github.io/showme/">Show Me: Unifying Instructional Image and Video Generation with Diffusion Models</a></div>
     <div class="author"><strong>Yujiang Pu</strong>, Zhanbo Huang, Vishnu Boddeti, Yu Kong</div>
-    <div class="periodical"><em>Winter Conference on Applications of Computer Vision (WACV), 2026.</em></div>
+    <div class="periodical"><em>Winter Conference on Applications of Computer Vision (WACV), Mar. 2026.</em></div>
     <div class="links">
       <a href="https://yujiangpu20.github.io/showme/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
       <!-- <a href="https://github.com/zxccade/SHINE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
