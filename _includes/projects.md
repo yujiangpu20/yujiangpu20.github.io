@@ -111,6 +111,7 @@
     <div class="author"><strong>Yujiang Pu</strong>, Zhanbo Huang, Vishnu Boddeti, Yu Kong</div>
     <div class="periodical"><em>Winter Conference on Applications of Computer Vision (WACV), Mar. 2026.</em></div>
     <div class="links">
+      <a href="https://arxiv.org/abs/2511.17839" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://yujiangpu20.github.io/showme/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
       <!-- <a href="https://github.com/zxccade/SHINE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="assets/files/SHINE.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
