@@ -68,6 +68,7 @@
     <div class="author">Wenliang Guo, <strong>Yujiang Pu</strong>, Yu Kong</div>
     <div class="periodical"><em>Under Review, 2025.</em></div>
     <div class="links">
+      <a href="https://arxiv.org/pdf/2512.03474v1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://wenliangguo.github.io/Mistake_Detection/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
       <!-- <a href="https://github.com/zxccade/SHINE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="assets/files/SHINE.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
