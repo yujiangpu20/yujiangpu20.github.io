@@ -114,8 +114,7 @@
     <div class="links">
       <a href="https://arxiv.org/abs/2511.17839" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://yujiangpu20.github.io/showme/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
-      <!-- <a href="https://github.com/zxccade/SHINE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="assets/files/SHINE.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
+      <a href="https://github.com/yujiangpu20/ShowMe-master" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- <strong><i style="color:#045429">Coming Soon!</i></strong> -->
     </div>
   </div>
