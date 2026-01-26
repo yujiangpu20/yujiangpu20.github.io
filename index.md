@@ -29,7 +29,10 @@ I am engaged in research in **Computer Vision (CV)** and **Machine Learning (ML)
 - **2024.07**  🎉 One paper is accepted by **ECCV** 2024!
 - **2023.08**  Begin my new journey at **MSU**, East Lansing, MI. -->
 
-
+<div style="display: flex; margin-bottom: 10px; margin-left: 1px;">
+  <div style="min-width: 80px; padding-left: 20px;"><strong>[Jan. 2026]</strong></div>
+  <div style="flex-grow: 1;">🎉 One co-authored paper is accepted by <strong>ICLR</strong> 2026. Congrats to Wenliang! </div>
+</div>
 <div style="display: flex; margin-bottom: 10px; margin-left: 1px;">
   <div style="min-width: 80px; padding-left: 20px;"><strong>[Nov. 2025]</strong></div>
   <div style="flex-grow: 1;">🎉 One paper is accepted by <strong>WACV</strong> 2026! See U in Tucson🌵</div>
