@@ -80,7 +80,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/AEM.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge" style="color:#045429">ICLR</abbr>
+    <abbr class="badge" style="color:#045429">ICLR'26</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -105,7 +105,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/showme.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge" style="color:#045429">WACV 2026</abbr>
+    <abbr class="badge" style="color:#045429">WACV'26</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -127,7 +127,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/CFSR.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge" style="color:#045429">ECCV 2024</abbr>
+    <abbr class="badge" style="color:#045429">ECCV'24</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -150,7 +150,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/DDL.jpeg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge" style="color:#045429">ICME 2022</abbr>
+    <abbr class="badge" style="color:#045429">ICME'22</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -174,7 +174,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/cma_la.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge" style="color:#045429">ICCECE 2022</abbr>
+    <abbr class="badge" style="color:#045429">ICCECE'22</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
