@@ -37,6 +37,19 @@ I am open to any positive communication and collaboration. Please feel free to c
 - **2023.08**  Begin my new journey at **MSU**, East Lansing, MI. -->
 
 <div style="display: flex; margin-bottom: 10px; margin-left: 1px;">
+  <div style="min-width: 80px; padding-left: 20px;"><strong>[May. 2026]</strong></div>
+  <div style="flex-grow: 1;">
+    Starting my internship at Adobe 
+    <img 
+      src="https://cdn.simpleicons.org/adobe/FF0000" 
+      alt="Adobe"
+      width="16"
+      style="vertical-align: -2px; margin: 0 3px;"
+    />
+    in San Jose!
+  </div>
+</div>
+<div style="display: flex; margin-bottom: 10px; margin-left: 1px;">
   <div style="min-width: 80px; padding-left: 20px;"><strong>[Jan. 2026]</strong></div>
   <div style="flex-grow: 1;">🎉 One co-authored paper is accepted by <strong>ICLR</strong> 2026. Congrats to Wenliang! </div>
 </div>
