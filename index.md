@@ -39,14 +39,7 @@ I am open to any positive communication and collaboration. Please feel free to c
 <div style="display: flex; margin-bottom: 10px; margin-left: 1px;">
   <div style="min-width: 80px; padding-left: 20px;"><strong>[May. 2026]</strong></div>
   <div style="flex-grow: 1;">
-    Starting my internship at Adobe 
-    <img 
-      src="https://cdn.simpleicons.org/adobe/FF0000" 
-      alt="Adobe"
-      width="16"
-      style="vertical-align: -2px; margin: 0 3px;"
-    />
-    in San Jose!
+    Starting my internship at <strong>Adobe</strong> in San Jose!
   </div>
 </div>
 <div style="display: flex; margin-bottom: 10px; margin-left: 1px;">
