@@ -29,30 +29,7 @@
 </li> -->
 
 
-<h3 style="margin:0 10px 10px 20px;"><strong>Preprints</strong></h3>
-
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/noiseasier.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge" style="color:#045429">ArXiv</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://yujiangpu20.github.io/noiseasier/">NoisEasier: Test-Time Noise Optimization for Text-to-Video Generation</a></div>
-    <div class="author"><strong>Yujiang Pu</strong>, and Yu Kong</div>
-    <div class="periodical"><em>Under Review, 2025.</em></div>
-    <div class="links">
-      <a href="https://yujiangpu20.github.io/noiseasier/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
-      <!-- <a href="https://github.com/zxccade/SHINE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="assets/files/SHINE.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
-      <!-- <strong><i style="color:#045429">Coming Soon!</i></strong> -->
-    </div>
-  </div>
-</div>
-</li>
+<!-- <h3 style="margin:0 10px 10px 20px;"><strong>Preprints</strong></h3> -->
 
 
 
@@ -74,6 +51,28 @@
 
 
 <h3 style="margin:10px 10px 10px 20px;"><strong>Conference Papers</strong></h3>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/noiseasier.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge" style="color:#045429">ECCV'26</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://yujiangpu20.github.io/noiseasier/">NoisEasier: Test-Time Noise Optimization for Text-to-Video Generation</a></div>
+    <div class="author"><strong>Yujiang Pu</strong>, and Yu Kong</div>
+    <div class="periodical"><em>European Conference on Computer Vision<strong>(ECCV)</strong>, Sep. 2026.</em></div>
+    <div class="links">
+      <a href="https://yujiangpu20.github.io/noiseasier/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
+      <!-- <a href="https://github.com/zxccade/SHINE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="assets/files/SHINE.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
+      <!-- <strong><i style="color:#045429">Coming Soon!</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">

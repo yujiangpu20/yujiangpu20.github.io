@@ -35,7 +35,10 @@ I am open to any positive communication and collaboration. Please feel free to c
 <!-- - **2024.08**  🎉 One paper is accepted by **IEEE-TIP** (IF=10.8)!
 - **2024.07**  🎉 One paper is accepted by **ECCV** 2024!
 - **2023.08**  Begin my new journey at **MSU**, East Lansing, MI. -->
-
+<div style="display: flex; margin-bottom: 10px; margin-left: 1px;">
+  <div style="min-width: 80px; padding-left: 20px;"><strong>[Jun. 2026]</strong></div>
+  <div style="flex-grow: 1;">🎉 One paper is accepted by <strong>ECCV</strong> 2026!</div>
+</div>
 <div style="display: flex; margin-bottom: 10px; margin-left: 1px;">
   <div style="min-width: 80px; padding-left: 20px;"><strong>[May. 2026]</strong></div>
   <div style="flex-grow: 1;">
