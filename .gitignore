@@ -1,7 +1,19 @@
-_site
-.sass-cache
-Gemfile.lock
+# Jekyll output and caches
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# Local dependency state
+.bundle/
+vendor/
 *.gem
+
+# Editor and operating-system files
+.history/
+**/.history/
 .DS_Store
-.jekyll-cache
+**/.DS_Store
+.Rhistory
+
+# Local helper scripts
 git-update.sh

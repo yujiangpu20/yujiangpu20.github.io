@@ -1,0 +1,103 @@
+- category: Conference Papers
+  entries:
+    - title: 'NoisEasier: Test-Time Noise Optimization for Text-to-Video Generation'
+      url: https://yujiangpu20.github.io/noiseasier/
+      image: assets/img/noiseasier.png
+      badge: ECCV'26
+      authors: '<strong>Yujiang Pu</strong>, and Yu Kong'
+      venue: 'European Conference on Computer Vision<strong>(ECCV)</strong>, Sep. 2026.'
+      links:
+        - label: Project
+          url: https://yujiangpu20.github.io/noiseasier/
+    - title: Procedural Mistake Detection via Action Effect Modeling
+      url: https://wenliangguo.github.io/Mistake_Detection/
+      image: assets/img/AEM.png
+      badge: ICLR'26
+      authors: 'Wenliang Guo, <strong>Yujiang Pu</strong>, Yu Kong'
+      venue: 'International Conference on Learning Representations (ICLR), Apr. 2026.'
+      links:
+        - label: PDF
+          url: https://arxiv.org/pdf/2512.03474v1
+        - label: Project
+          url: https://wenliangguo.github.io/Mistake_Detection/
+    - title: 'Show Me: Unifying Instructional Image and Video Generation with Diffusion Models'
+      url: https://yujiangpu20.github.io/showme/
+      image: assets/img/showme.png
+      badge: WACV'26
+      authors: '<strong>Yujiang Pu</strong>, Zhanbo Huang, Vishnu Boddeti, Yu Kong'
+      venue: 'Winter Conference on Applications of Computer Vision (WACV), Mar. 2026.'
+      links:
+        - label: PDF
+          url: https://arxiv.org/abs/2511.17839
+        - label: Project
+          url: https://yujiangpu20.github.io/showme/
+        - label: Code
+          url: https://github.com/yujiangpu20/ShowMe-master
+    - title: 'SHINE: Saliency-aware HIerarchical NEgative Ranking for Compositional Temporal Grounding'
+      url: https://arxiv.org/abs/2407.05118
+      image: assets/img/CFSR.png
+      badge: ECCV'24
+      authors: '<strong>Yujiang Pu*</strong>, Zixu Cheng*, Shaogang Gong, Parisa Kordjamshidi, Yu Kong (* Equal Contribution)'
+      venue: 'European Conference on Computer Vision<strong>(ECCV)</strong>, Jul. 2024.'
+      links:
+        - label: PDF
+          url: https://arxiv.org/abs/2407.05118
+        - label: Code
+          url: https://github.com/zxccade/SHINE
+        - label: BibTeX
+          url: assets/files/SHINE.bib
+    - title: Locality-Aware Attention Network with Discriminative Dynamics Learning for Weakly Supervised Anomaly Detection
+      url: https://ieeexplore.ieee.org/abstract/document/9859718
+      image: assets/img/DDL.jpeg
+      badge: ICME'22
+      authors: '<strong>Yujiang Pu</strong>, Xiaoyu Wu'
+      venue: 'IEEE International Conference on Multimedia and Expo<strong>(ICME)</strong>, Jul. 2022.'
+      links:
+        - label: PDF
+          url: assets/files/DDL.pdf
+        - label: Slides
+          url: assets/files/icme_oral.pdf
+        - label: Talk
+          url: https://drive.google.com/file/d/1zJtlNdq-0XZjGqX8W2ZsP8Ze3ckuR0Xf/view?usp=sharing
+        - label: BibTeX
+          url: assets/files/DDL.bib
+      note: Oral Presentation
+    - title: Audio-Guided Attention Network for Weakly Supervised Violence Detection
+      url: https://ieeexplore.ieee.org/abstract/document/9712793
+      image: assets/img/cma_la.png
+      badge: ICCECE'22
+      authors: '<strong>Yujiang Pu</strong>, Xiaoyu Wu'
+      venue: 'International Conference on Consumer Electronics and Computer Engineering<strong>(ICCECE)</strong>, Jan. 2022.'
+      links:
+        - label: PDF
+          url: assets/files/CMA.pdf
+        - label: Code
+          url: https://github.com/yujiangpu20/cma_xdVioDet
+        - label: BibTeX
+          url: assets/files/cma.bib
+- category: Journal Articles
+  entries:
+    - title: Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection
+      url: https://arxiv.org/pdf/2306.14451
+      image: assets/img/PEL.png
+      badge: IEEE TIP
+      authors: '<strong>Yujiang Pu</strong>, Xiaoyu Wu, Lulu Yang, Shengjin Wang'
+      venue: 'IEEE Transactions on Image Processing <strong>(T-IP)</strong>, Aug. 2024.'
+      links:
+        - label: PDF
+          url: https://arxiv.org/pdf/2306.14451.pdf
+        - label: Code
+          url: https://github.com/yujiangpu20/PEL4VAD
+        - label: BibTeX
+          url: assets/files/PEL.bib
+    - title: Semantic Multimodal Violence Detection based on Local-to-Global Embedding
+      url: https://www.sciencedirect.com/science/article/abs/pii/S0925231222011833
+      image: assets/img/neuro.jpg
+      badge: Neurocomputing
+      authors: '<strong>Yujiang Pu</strong>, Xiaoyu Wu, Shengjin Wang, Yuming Huang, Zihao Liu, Chaonan Gu'
+      venue: 'Neurocomputing <strong>(NC)</strong>, Dec. 2022.'
+      links:
+        - label: PDF
+          url: assets/files/neurocom.pdf
+        - label: BibTeX
+          url: assets/files/neuro.bib

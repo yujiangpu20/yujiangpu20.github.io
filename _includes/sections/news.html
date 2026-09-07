@@ -1,0 +1,8 @@
+<h2>News</h2>
+
+{% for item in site.data.news %}
+<div style="display: flex; margin-bottom: 10px; margin-left: 1px;">
+  <div style="min-width: 80px; padding-left: 20px;"><strong>[{{ item.date }}]</strong></div>
+  <div style="flex-grow: 1;">{{ item.text }}</div>
+</div>
+{% endfor %}

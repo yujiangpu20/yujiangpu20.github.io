@@ -1,0 +1,33 @@
+<h2 id="publications" style="margin: 30px 0px -15px;">Selected Publications</h2>
+
+<div class="publications">
+  <ol class="bibliography">
+    {% for group in site.data.publications %}
+    <h3 style="margin:10px 10px 10px 20px;"><strong>{{ group.category }}</strong></h3>
+
+      {% for publication in group.entries %}
+      <li>
+        <div class="pub-row">
+          <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+            <img src="{{ publication.image }}" class="teaser img-fluid z-depth-1">
+            <abbr class="badge" style="color:#045429">{{ publication.badge }}</abbr>
+          </div>
+
+          <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+            <div class="title"><a href="{{ publication.url }}">{{ publication.title }}</a></div>
+            <div class="author">{{ publication.authors }}</div>
+            <div class="periodical"><em>{{ publication.venue }}</em></div>
+            <div class="links">
+              {% for link in publication.links %}
+              <a href="{{ link.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">{{ link.label }}</a>
+              {% endfor %}
+              {% if publication.note %}<strong><i style="color:#045429">{{ publication.note }}</i></strong>{% endif %}
+            </div>
+          </div>
+        </div>
+      </li>
+      {% endfor %}
+    {% endfor %}
+    <br>
+  </ol>
+</div>
