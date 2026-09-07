@@ -7,8 +7,12 @@
       authors: '<strong>Yujiang Pu</strong>, and Yu Kong'
       venue: 'European Conference on Computer Vision<strong>(ECCV)</strong>, Sep. 2026.'
       links:
+        - label: Paper
+          url: https://arxiv.org/abs/2608.30194
         - label: Project
           url: https://yujiangpu20.github.io/noiseasier/
+        - label: Code
+          url: https://github.com/actionlab-cv/NoisEasier
     - title: Procedural Mistake Detection via Action Effect Modeling
       url: https://wenliangguo.github.io/Mistake_Detection/
       image: assets/img/AEM.png
@@ -16,7 +20,7 @@
       authors: 'Wenliang Guo, <strong>Yujiang Pu</strong>, Yu Kong'
       venue: 'International Conference on Learning Representations (ICLR), Apr. 2026.'
       links:
-        - label: PDF
+        - label: Paper
           url: https://arxiv.org/pdf/2512.03474v1
         - label: Project
           url: https://wenliangguo.github.io/Mistake_Detection/
@@ -27,7 +31,7 @@
       authors: '<strong>Yujiang Pu</strong>, Zhanbo Huang, Vishnu Boddeti, Yu Kong'
       venue: 'Winter Conference on Applications of Computer Vision (WACV), Mar. 2026.'
       links:
-        - label: PDF
+        - label: Paper
           url: https://arxiv.org/abs/2511.17839
         - label: Project
           url: https://yujiangpu20.github.io/showme/
@@ -40,7 +44,7 @@
       authors: '<strong>Yujiang Pu*</strong>, Zixu Cheng*, Shaogang Gong, Parisa Kordjamshidi, Yu Kong (* Equal Contribution)'
       venue: 'European Conference on Computer Vision<strong>(ECCV)</strong>, Jul. 2024.'
       links:
-        - label: PDF
+        - label: Paper
           url: https://arxiv.org/abs/2407.05118
         - label: Code
           url: https://github.com/zxccade/SHINE
@@ -53,7 +57,7 @@
       authors: '<strong>Yujiang Pu</strong>, Xiaoyu Wu'
       venue: 'IEEE International Conference on Multimedia and Expo<strong>(ICME)</strong>, Jul. 2022.'
       links:
-        - label: PDF
+        - label: Paper
           url: assets/files/DDL.pdf
         - label: Slides
           url: assets/files/icme_oral.pdf
@@ -69,7 +73,7 @@
       authors: '<strong>Yujiang Pu</strong>, Xiaoyu Wu'
       venue: 'International Conference on Consumer Electronics and Computer Engineering<strong>(ICCECE)</strong>, Jan. 2022.'
       links:
-        - label: PDF
+        - label: Paper
           url: assets/files/CMA.pdf
         - label: Code
           url: https://github.com/yujiangpu20/cma_xdVioDet
@@ -84,7 +88,7 @@
       authors: '<strong>Yujiang Pu</strong>, Xiaoyu Wu, Lulu Yang, Shengjin Wang'
       venue: 'IEEE Transactions on Image Processing <strong>(T-IP)</strong>, Aug. 2024.'
       links:
-        - label: PDF
+        - label: Paper
           url: https://arxiv.org/pdf/2306.14451.pdf
         - label: Code
           url: https://github.com/yujiangpu20/PEL4VAD
@@ -97,7 +101,7 @@
       authors: '<strong>Yujiang Pu</strong>, Xiaoyu Wu, Shengjin Wang, Yuming Huang, Zihao Liu, Chaonan Gu'
       venue: 'Neurocomputing <strong>(NC)</strong>, Dec. 2022.'
       links:
-        - label: PDF
+        - label: Paper
           url: assets/files/neurocom.pdf
         - label: BibTeX
           url: assets/files/neuro.bib
