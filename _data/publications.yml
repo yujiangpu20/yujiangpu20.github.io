@@ -1,5 +1,14 @@
 - category: Conference Papers
   entries:
+    - title: 'LogicDirector: Enforcing Temporal Composition in Text-to-Video Generation'
+      url: https://yujiangpu20.github.io/logicdirector/
+      image: assets/img/logicdirector_logic.png
+      badge: NeurIPS'26
+      authors: '<strong>Yujiang Pu</strong>, Zixu Cheng, Shaogang Gong, Handong Zhao, Yu Kong'
+      venue: 'Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, Dec. 2026.'
+      links:
+        - label: Project
+          url: https://yujiangpu20.github.io/logicdirector/
     - title: 'NoisEasier: Test-Time Noise Optimization for Text-to-Video Generation'
       url: https://yujiangpu20.github.io/noiseasier/
       image: assets/img/noiseasier.png
