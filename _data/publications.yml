@@ -33,6 +33,8 @@
           url: https://arxiv.org/pdf/2512.03474v1
         - label: Project
           url: https://wenliangguo.github.io/Mistake_Detection/
+        - label: Code
+          url: https://github.com/WenliangGuo/AEM
     - title: 'Show Me: Unifying Instructional Image and Video Generation with Diffusion Models'
       url: https://yujiangpu20.github.io/showme/
       image: assets/img/showme.png
