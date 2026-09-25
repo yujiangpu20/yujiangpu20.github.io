@@ -11,7 +11,7 @@
           url: https://yujiangpu20.github.io/logicdirector/
     - title: 'NoisEasier: Test-Time Noise Optimization for Text-to-Video Generation'
       url: https://yujiangpu20.github.io/noiseasier/
-      image: assets/img/noiseasier.png
+      image: assets/img/noiseasier_framework.png
       badge: ECCV'26
       authors: '<strong>Yujiang Pu</strong>, and Yu Kong'
       venue: 'European Conference on Computer Vision<strong>(ECCV)</strong>, Sep. 2026.'

@@ -9,4 +9,4 @@ I am engaged in research in **Computer Vision (CV)** and **Machine Learning (ML)
   <li><strong>Video Understanding &amp; Reasoning:</strong> Leveraging foundations in action recognition and temporal grounding to interpret long-range event dynamics.</li>
 </ul>
 
-I am open to any positive communication and collaboration. Please feel free to contact me if you're interested!
+I am open to any communication and collaboration. Please feel free to contact me if you're interested!
