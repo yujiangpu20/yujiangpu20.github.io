@@ -7,6 +7,8 @@
   <li>International Conference on Computer Vision (ICCV) </li>
   <li>European Conference on Computer Vision (ECCV) </li>
   <li>Association for the Advancement of Artificial Intelligence (AAAI)</li>
+  <li>International Conference on Learning Representations (ICLR)</li>
+  <li>ACL Rolling Review (ACL ARR)</li>
   <li>Conference and Workshop on Neural Information Processing Systems (NeurIPS)</li>
 </ul>
 
